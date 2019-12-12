@@ -1,0 +1,16 @@
+.x-hidden{
+    overflow-x: hidden;
+}
+
+.video-item{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    margin-bottom:20px; 
+};
+.video-item img.image{
+    max-width: 200px !important;
+}
+.video-item .content{
+    padding-left:10px;
+}
